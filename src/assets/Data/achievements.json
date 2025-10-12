@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "platform": "LeetCode",
+        "description": "My progress in Data Structures & Algorithms.",
+        "username": "akshay-parande", 
+        "profileLink": "https://leetcode.com/u/akshay-parande", 
+        "icon": "LeetCodeIcon",
+        "fallbackStats": { 
+            "easySolved": 100,
+            "mediumSolved": 125,
+            "hardSolved": 30,
+            "totalSolved": 255
+        }
+    },
+    {
+        "id": 2,
+        "platform": "OverTheWire",
+        "description": "Demonstrated skills in web security, and Linux.",
+        "profileLink": "#",
+        "icon": "TerminalIcon",
+        "wargames": [
+            { "name": "Bandit", "levels": "Levels 0-34", "currentLevel": 34, "totalLevels": 34, "concepts": ["Linux CLI", "Permissions", "SSH", "Scripting" , "Git"] },
+            { "name": "Natas", "levels": "Levels 0-9", "currentLevel": 10, "totalLevels": 34, "concepts": ["Web Security", "Request Manupulation", "File Inclusion"] }
+        ]
+    }
+  ]

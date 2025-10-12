@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Random Password Generator",
+      "description": "A random password genreator using react and javascript. Generate strong password with special characters, numbers and small-capital letters with variable length.",
+      "image": "https://placehold.co/600x400/0f172a/06b6d4?text=Random+Password+Generator",
+      "techStack": ["React", "Tailwind CSS"],
+      "liveLink": "/websites/passwordGenerator",
+      "codeLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Currency Converter",
+      "description": "Currency converter has almost all currency of world. Conversion from one currency to another.",
+      "image": "https://placehold.co/600x400/0f172a/06b6d4?text=Currency+Converter",
+      "techStack": ["React", "Tailwind CSS", "API"],
+      "liveLink": "/websites/currencyConverter",
+      "codeLink": "#"
+    }
+]

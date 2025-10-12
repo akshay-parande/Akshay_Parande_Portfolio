@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Python",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "level": "Intermediate",
+    "levelPercent": 65,
+    "concepts": ["OOP", "Data Structures", "File Handling", "APIs","Flask"]
+  },
+  {
+    "name":"C++",
+    "logo":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+    "level":"Intermediate",
+    "levelPercent":60,
+    "concepts":["OOP","Data Structures","Polymorphesem"]
+  },
+  {
+    "name":"Java",
+    "logo":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+    "level":"Intermediate",
+    "levelPercent":70,
+    "concepts":["Core Java","Data Structures","OOP"]
+  },
+  {
+    "name": "JavaScript",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "level": "Intermediate",
+    "levelPercent": 65,
+    "concepts": ["DOM Manipulation", "Async/Await", "Promises", "ES6 Features"]
+  },
+  {
+    "name": "React",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "level": "Intermediate",
+    "levelPercent": 70,
+    "concepts": ["Hooks", "Props & State", "Component Design","React Router Dom" , "Context API"]
+  },
+  {
+    "name": "HTML5",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "level": "Advanced",
+    "levelPercent": 85,
+    "concepts": ["Semantic Elements", "Forms", "Canvas", "Accessibility"]
+  },
+  {
+    "name": "CSS3",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "level": "Intermediate",
+    "levelPercent": 70,
+    "concepts": ["Flexbox", "Grid", "Animations", "Responsive Design"]
+  },
+  {
+    "name": "Tailwind CSS",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+    "level": "Intermediate",
+    "levelPercent": 75,
+    "concepts": ["Utility Classes", "Responsive Design", "Custom Config"]
+  },
+  {
+    "name": "Linux OS",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+    "level": "Intermediate",
+    "levelPercent": 70,
+    "concepts": ["Shell Scripting", "File & Permission Management", "Networking Commands"]
+  }
+  
+]

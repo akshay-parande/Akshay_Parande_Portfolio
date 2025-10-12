@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Cybersecurity",
+        "issuer": "Cisco Netacad",
+        "date": "Sept 2024",
+        "logo": "https://placehold.co/100x100/ffffff/000000?text=CISCO",
+        "verifyLink": "https://www.credly.com/badges/1a8d2584-9d51-428f-97b4-91b860f2a2d2/public_url"   
+    },
+    {
+        "id": 2,
+        "name": "GFG C++ Foundation Certified",
+        "issuer": "GeeksforGeeks",
+        "date": "Nov 2023",
+        "logo": "https://placehold.co/100x100/ffffff/000000?text=GFG",
+        "verifyLink": "https://media.geeksforgeeks.org/courses/certificates/f00a60d0d2fc6dbed0c96d5de05c438c.pdf"
+    },
+    {
+        "id": 3,
+        "name": "Networking Basics",
+        "issuer": "Cisco Netacad",
+        "date": "Nov 2024",
+        "logo": "https://placehold.co/100x100/ffffff/000000?text=CISCO",
+        "verifyLink": "https://www.credly.com/badges/89e3560f-6ff2-4efa-88c3-248734ebaa3c/public_url"   
+    }
+]
