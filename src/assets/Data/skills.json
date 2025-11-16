@@ -3,7 +3,7 @@
     "name": "Python",
     "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
     "level": "Intermediate",
-    "levelPercent": 65,
+    "levelPercent": 75,
     "concepts": ["OOP", "Data Structures", "File Handling", "APIs","Flask"]
   },
   {
@@ -24,7 +24,7 @@
     "name": "JavaScript",
     "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
     "level": "Intermediate",
-    "levelPercent": 65,
+    "levelPercent": 70,
     "concepts": ["DOM Manipulation", "Async/Await", "Promises", "ES6 Features"]
   },
   {
@@ -39,7 +39,7 @@
     "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
     "level": "Advanced",
     "levelPercent": 85,
-    "concepts": ["Semantic Elements", "Forms", "Canvas", "Accessibility"]
+    "concepts": ["Elements", "Forms", "Canvas", "Accessibility"]
   },
   {
     "name": "CSS3",
@@ -56,11 +56,11 @@
     "concepts": ["Utility Classes", "Responsive Design", "Custom Config"]
   },
   {
-    "name": "Linux OS",
-    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+    "name": "Linux OS (Kali Linux)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg",
     "level": "Intermediate",
-    "levelPercent": 70,
-    "concepts": ["Shell Scripting", "File & Permission Management", "Networking Commands"]
+    "levelPercent": 80,
+    "concepts": ["Shell Scripting", "File & Permission Management", "Networking Commands", "Command Line"]
   }
   
 ]
